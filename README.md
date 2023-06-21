@@ -2,7 +2,7 @@
 - 👀 I’m interested in Travelling
 - 🌱 I’m currently learning and working with React Js
 - 💞️ I’m looking to collaborate on teach happiness
-- 📫 How to reach me: Facebook: https://www.facebook.com/profile.php?id=100007230100901
+- 📫 How to reach me: Facebook: https://www.facebook.com/rakibahsanahmed
 
 <!---
 ahsan-ahmed-rakib/ahsan-ahmed-rakib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
